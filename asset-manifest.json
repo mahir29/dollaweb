@@ -1,26 +1,26 @@
 {
   "files": {
-    "main.css": "/dollaweb/static/css/main.ebad143b.chunk.css",
-    "main.js": "/dollaweb/static/js/main.cd3dd151.chunk.js",
-    "main.js.map": "/dollaweb/static/js/main.cd3dd151.chunk.js.map",
-    "runtime-main.js": "/dollaweb/static/js/runtime-main.c0a0742f.js",
-    "runtime-main.js.map": "/dollaweb/static/js/runtime-main.c0a0742f.js.map",
-    "static/js/2.cad18f33.chunk.js": "/dollaweb/static/js/2.cad18f33.chunk.js",
-    "static/js/2.cad18f33.chunk.js.map": "/dollaweb/static/js/2.cad18f33.chunk.js.map",
-    "index.html": "/dollaweb/index.html",
-    "precache-manifest.4d9678a24d9ecfb820241c53a5bcb6eb.js": "/dollaweb/precache-manifest.4d9678a24d9ecfb820241c53a5bcb6eb.js",
-    "service-worker.js": "/dollaweb/service-worker.js",
-    "static/css/main.ebad143b.chunk.css.map": "/dollaweb/static/css/main.ebad143b.chunk.css.map",
-    "static/js/2.cad18f33.chunk.js.LICENSE.txt": "/dollaweb/static/js/2.cad18f33.chunk.js.LICENSE.txt",
-    "static/media/svg-1.svg": "/dollaweb/static/media/svg-1.715313cd.svg",
-    "static/media/svg-2.svg": "/dollaweb/static/media/svg-2.4a122f73.svg",
-    "static/media/svg-3.svg": "/dollaweb/static/media/svg-3.99b1c6a6.svg",
-    "static/media/video.mp4": "/dollaweb/static/media/video.ed44dc5d.mp4"
+    "main.css": "/static/css/main.ebad143b.chunk.css",
+    "main.js": "/static/js/main.4662f39d.chunk.js",
+    "main.js.map": "/static/js/main.4662f39d.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.f2e4f4fd.js",
+    "runtime-main.js.map": "/static/js/runtime-main.f2e4f4fd.js.map",
+    "static/js/2.5cf5bd8d.chunk.js": "/static/js/2.5cf5bd8d.chunk.js",
+    "static/js/2.5cf5bd8d.chunk.js.map": "/static/js/2.5cf5bd8d.chunk.js.map",
+    "index.html": "/index.html",
+    "precache-manifest.f4c5de2e002f1d0ee43d97c78237217d.js": "/precache-manifest.f4c5de2e002f1d0ee43d97c78237217d.js",
+    "service-worker.js": "/service-worker.js",
+    "static/css/main.ebad143b.chunk.css.map": "/static/css/main.ebad143b.chunk.css.map",
+    "static/js/2.5cf5bd8d.chunk.js.LICENSE.txt": "/static/js/2.5cf5bd8d.chunk.js.LICENSE.txt",
+    "static/media/svg-1.svg": "/static/media/svg-1.715313cd.svg",
+    "static/media/svg-2.svg": "/static/media/svg-2.4a122f73.svg",
+    "static/media/svg-3.svg": "/static/media/svg-3.99b1c6a6.svg",
+    "static/media/video.mp4": "/static/media/video.ed44dc5d.mp4"
   },
   "entrypoints": [
-    "static/js/runtime-main.c0a0742f.js",
-    "static/js/2.cad18f33.chunk.js",
+    "static/js/runtime-main.f2e4f4fd.js",
+    "static/js/2.5cf5bd8d.chunk.js",
     "static/css/main.ebad143b.chunk.css",
-    "static/js/main.cd3dd151.chunk.js"
+    "static/js/main.4662f39d.chunk.js"
   ]
 }
